@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tienda online</string>
+    <string name="inicio_de_sesi_n">Inicio de Sesión</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="Registrarse" />
 </resources>

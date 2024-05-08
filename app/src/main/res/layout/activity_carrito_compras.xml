@@ -96,5 +96,6 @@
         android:layout_height="wrap_content"
         android:text="Comprar"
         android:layout_gravity="center"
-        android:layout_marginTop="16dp"/>
+        android:layout_marginTop="16dp"
+        android:onClick="aceptarComprar"/>
 </LinearLayout>

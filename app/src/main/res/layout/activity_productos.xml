@@ -18,18 +18,17 @@
         android:layout_marginBottom="20dp"/>
 
     <!-- imagen carrito -->
-
-
-    <!-- Producto 1 -->
     <ImageView
         android:id="@+id/headerImage"
         android:layout_width="73dp"
         android:layout_height="44dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="19dp"
+        android:onClick="carritoCompras"
         android:layout_toEndOf="@id/headerTitle"
         android:src="@drawable/carritocompras" />
 
+    <!-- producto 1-->
     <LinearLayout
         android:id="@+id/product1Layout"
         android:layout_width="match_parent"
@@ -69,7 +68,6 @@
                 android:textSize="16sp" />
         </LinearLayout>
     </LinearLayout>
-
 
     <!-- producto 2-->
     <LinearLayout
